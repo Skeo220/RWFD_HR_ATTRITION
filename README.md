@@ -7,4 +7,4 @@ These indicators on a scale of 1 to 4 or 5, with 1 indicating a low rating and 4
 
 With this robust HR attrition dataset and the comprehensive insights derived from the dashboards, we are equipped to make informed decisions and implement targeted retention strategies to improve employee engagement and reduce turnover.
 
-[View the Dashboard!](https://public.tableau.com/app/profile/stephan.keo/viz/RWFD_HR_Attrition/Dashboard1)
+[View the Dashboard!](https://public.tableau.com/app/profile/stephan.keo)
